@@ -6,9 +6,7 @@
   Touch Typing
 </h1>
 
-## 📸 在线访问  <https://qwerty.kaiyi.cool/>
-
-
+## 📸 在线访问 <https://qwerty.kaiyi.cool/>
 
 ### 手动安装
 
@@ -16,8 +14,6 @@
 2. 在命令行中执行 `cd qwerty-learner`，进入项目根目录，执行`yarn install`来下载依赖。
 3. 执行`yarn start`来启动项目，项目默认地址为`http://localhost:5173/`
 4. 在浏览器中打开`http://localhost:5173/`来访问项目。
-
-
 
 ## 📕 TODO TASK
 
@@ -40,4 +36,3 @@
 - 王陆雅思王听力语料库 [@Saigyouji_WKKun](https://github.com/ggehuliang)
 - 日语常见词、N1 ～ N5 [@xiaojia](https://github.com/wetery)
 - 哈萨克语基础 3000 词(哈拼版) 来源于 [@Elgar](https://github.com/Elgar17) 由 [@Herbert He](https://github.com/HerbertHe) 通过 [哈拼](https://ha-pin.js.org) 技术支持
-
